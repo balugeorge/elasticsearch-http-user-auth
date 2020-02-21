@@ -10,7 +10,7 @@ This plugin provides user authentication APIs and a User management web console.
 
 ## Installation 
 <pre>
-bin/plugin install https://raw.githubusercontent.com/elasticfence/elasticsearch-http-user-auth/2.4.6/jar/elasticfence-2.4.6-SNAPSHOT.zip
+bin/plugin install https://raw.githubusercontent.com/balugeorge/elasticsearch-http-user-auth/2.4.6/jar/elasticfence-2.4.6-SNAPSHOT.zip
 </pre>
 
 #### Build with Maven
