@@ -41,7 +41,7 @@ public class ElasticfencePlugin extends Plugin {
         		UserAuthenticator.loadRootUserDataCacheOnStart();
         	}
 
-        	String[] whitelist = getSettingArray("whitelist", new String[]{"127.0.0.1"});
+        	String[] whitelist = getSettingArray("whitelist", new String[]{});
         	String[] blacklist = getSettingArray("blacklist", new String[]{});
 
         	if (whitelist != null ) {
